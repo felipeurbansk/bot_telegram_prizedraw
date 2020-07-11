@@ -1,0 +1,28 @@
+{
+  "name": "bot_telegram_prizedraw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipeurbansk/bot_telegram_prizedraw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipeurbansk/bot_telegram_prizedraw/issues"
+  },
+  "homepage": "https://github.com/felipeurbansk/bot_telegram_prizedraw#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "node-telegram-bot-api": "^0.50.0",
+    "nodemon": "^2.0.4"
+  }
+}
